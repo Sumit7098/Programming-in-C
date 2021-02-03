@@ -1,0 +1,4 @@
+Sum of the doubles= 60.990000
+Difference of the doubles= 30.330000
+Product of the doubles= 699.967800
+Division of the doubles= 2.978474

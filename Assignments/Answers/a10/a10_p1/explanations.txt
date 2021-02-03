@@ -1,0 +1,23 @@
+## After commenting 'using namespace std' out
+
+
+All the following identifiers are undefined: 'string', 'cout', 'endl', 'getline', 'cin'
+	Because all those are classes and functions that have been defined in
+	the standard namespace, which is a logical container hold a logical 
+	grouping of unique identifiers or symbols.
+
+Possible solution: To use std:: before each one of the afore mentioned classes/functions.
+For strings, we could also use C strings (an array of characters with '\0' at the end).
+
+
+## After commenting 'Critter::' out
+
+
+
+All the indentifiers in Critter.h aren't recognized anymore. 
+And the functions are considered as incomplete types. All this because we are trying to
+access member methods and member variables of a class without creating an object nor
+referring to that class (using Critter::).
+
+Possible alternative solution: Is to put the declarations and definitions in one folder.
+	However, this might cause some security issues.

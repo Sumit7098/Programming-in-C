@@ -1,0 +1,6 @@
+﻿  TournamentMember.cpp
+  testTournamentMember.cpp
+C:\Users\Qais\OneDrive - Jacobs University\Desktop\Jacobs\Programming in C and C++\Assignments\Answers\a12\ConsoleApplication1\TournamentMember.h(36,38): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Qais\OneDrive - Jacobs University\Desktop\Jacobs\Programming in C and C++\Assignments\Answers\a12\ConsoleApplication1\TournamentMember.h(37,37): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Qais\OneDrive - Jacobs University\Desktop\Jacobs\Programming in C and C++\Assignments\Answers\a12\ConsoleApplication1\TournamentMember.h(38,40): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
